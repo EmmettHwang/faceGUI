@@ -1,5 +1,5 @@
 # faceGUI
-11월 26일 파이썬 코드 작성
+11월 26일 파이썬 코드 작성 by 노희선
 📸 웹캠 관상 분석 프로그램 (MediaPipe 기반)
 이 프로그램은 웹캠을 통해 사용자의 얼굴을 실시간으로 인식하고, Google MediaPipe Face Mesh 기술을 활용하여 얼굴 특징점(랜드마크)을 감지합니다. 감지된 특징점의 거리와 비율을 계산하여 간단한 관상학적 분석(예시) 결과를 Tkinter 기반의 GUI 화면에 실시간으로 표시합니다.
 
@@ -24,3 +24,5 @@ OpenCV (cv2): 카메라 및 영상 처리를 담당합니다.
 MediaPipe: 얼굴 랜드마크 감지 핵심 엔진입니다.
 
 Pillow (PIL): OpenCV 이미지를 Tkinter GUI에서 표시할 수 있도록 변환합니다.
+## 실행 화면 
+<img width="1147" height="676" alt="image" src="https://github.com/user-attachments/assets/7ef53a1e-06db-4bdc-846f-d77d6beac0b3" />
